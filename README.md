@@ -46,5 +46,5 @@ I help companies **transform raw data into actionable insights**, optimize decis
   ##
  
 <div> 
-  <a href="https://www.linkedin.com/in/viviana-de-oliveira-90b04422/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/viviana-oliveira-pmp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
