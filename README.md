@@ -1,32 +1,31 @@
-### 🌟 **Hi, I’m Viviana! | Oi, eu sou a Viviana!**
+### ✨ **Hi, I’m Viviana!** 🚀  
 
 ---
 
-**English**  
-💻 Over the past 10 years, I’ve been managing projects and leading tech teams, but recently, I’ve fallen in love with data. My passion now is crafting smart, data-driven solutions that **optimize processes**, **boost performance**, and **empower strategic decision-making**.  
+🎨 **Data Analyst & BI Specialist | Data-Driven Decision Making**  
 
-🚀 As a consultant for medium and large companies, I’ve rolled up my sleeves to:  
-- 🛠️ Develop frameworks that bring structure to teams.  
-- ⚙️ Build scalable processes that really work.  
-- 📊 Transform raw data into dashboards packed with actionable insights!  
+I help companies **transform raw data into actionable insights**, optimize decision-making, and enhance operational efficiency. With **10+ years of experience** in **data visualization, database management, and automation**, I specialize in **Power BI, Python 🐍, SQL 💃, and API integrations** to develop **scalable and data-driven solutions**.  
 
-💼 My toolkit includes certifications like PMP, Agile Leadership™, and ISTQB, plus a strong command of technologies like **Python**, **Django**, **Pandas**, **Plotly**, **Power BI**, and **APIs**—both building and consuming them. What drives me is blending **strategy**, **leadership**, and **technical expertise** to tackle challenges and deliver real results.  
+### 🔹 **My Main Skills:**  
 
-💬 Let’s talk about **data**, **projects**, or any cool tech stuff—I’m all in! 🚀✨  
+✅ **Data Visualization & Business Intelligence**: Power BI 📊, Tableau 📈, dashboards, KPI analysis 📍  
+✅ **Programming & Data Processing**: Python 🐍 (Pandas, NumPy), SQL 📃, API integrations 🔗  
+✅ **Database Management & Cloud Solutions**: PostgreSQL 💢, Redshift 🚀, MongoDB 🌱, AWS S3 ☁️  
+✅ **Machine Learning & Predictive Analytics** 🤖 (for business insights 📉)  
+✅ **Agile Methodologies**: SCRUM ⚡, Kanban 📌, project management 📆  
 
 ---
 
-**Português**  
-💻 Nos últimos 10 anos, atuei gerenciando projetos e liderando equipes de tecnologia, mas recentemente me apaixonei pela área de dados. Hoje, meu foco é criar soluções inteligentes e baseadas em dados que **otimizam processos**, **melhoram a performance** e **fortalecem a tomada de decisões estratégicas**.  
+🌟 **Passionate about:**  
+💡 Leveraging data for **strategic decision-making**  
+🔄 **Optimizing workflows** & **automating processes**  
+🌍 Working with **multinational teams** in **remote environments**  
 
-🚀 Como consultora para médias e grandes empresas, já coloquei a mão na massa para:  
-- 🛠️ Desenvolver frameworks que organizam times.  
-- ⚙️ Criar processos escaláveis que realmente funcionam.  
-- 📊 Transformar dados brutos em dashboards cheios de insights acionáveis!  
+---
 
-💼 Minha bagagem inclui certificações como PMP, Agile Leadership™ e ISTQB, além de muita experiência com tecnologias como **Python**, **Django**, **Pandas**, **Plotly**, **Power BI** e **APIs**—tanto criando quanto consumindo. O que me move é unir **estratégia**, **liderança** e **conhecimento técnico** para resolver problemas e entregar resultados reais.  
+💬 **Let’s talk about data, projects, or any cool tech—I’m in!** 🚀✨  
 
-💬 Vamos conversar sobre **dados**, **projetos** ou qualquer tecnologia bacana—estou dentro! 🚀✨
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
