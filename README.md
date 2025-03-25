@@ -1,31 +1,34 @@
-### ✨ **Hi, I’m Viviana!** 🚀  
+# 👋 Hi, I’m Viviana!
+
+🚀 Data Engineer & Analytics Specialist | End-to-End Data Solutions
+
+I help companies build **scalable pipelines** and turn raw data into **insights that drive strategy and growth**.  
+With a background in project management and data analytics, I bridge business needs and technical solutions.
 
 ---
 
-🎨 **Data Analyst & BI Specialist | Data-Driven Decision Making**  
-
-I help companies **transform raw data into actionable insights**, optimize decision-making, and enhance operational efficiency. With **10+ years of experience** in **data visualization, database management, and automation**, I specialize in **Power BI, Python 🐍, SQL 💃, and API integrations** to develop **scalable and data-driven solutions**.  
-
-### 🔹 **My Main Skills:**  
-
-✅ **Data Visualization & Business Intelligence**: Power BI 📊, Tableau 📈, dashboards, KPI analysis 📍  
-✅ **Programming & Data Processing**: Python 🐍 (Pandas, NumPy), SQL 📃, API integrations 🔗  
-✅ **Database Management & Cloud Solutions**: PostgreSQL 💢, Redshift 🚀, MongoDB 🌱, AWS S3 ☁️  
-✅ **Machine Learning & Predictive Analytics** 🤖 (for business insights 📉)  
-✅ **Agile Methodologies**: SCRUM ⚡, Kanban 📌, project management 📆  
+### 🔧 Tech Stack:
+- **Engineering**: Python (PySpark, Pandas), SQL, Airflow, APIs, ETL automation  
+- **Modeling & Storage**: Star Schema, Parquet, PostgreSQL, Redshift, MongoDB  
+- **Analytics & Visualization**: Power BI, Streamlit, Tableau, EDA, KPIs  
+- **Agile & Delivery**: PMP, SCRUM, remote teams, stakeholder communication
 
 ---
 
-🌟 **Passionate about:**  
-💡 Leveraging data for **strategic decision-making**  
-🔄 **Optimizing workflows** & **automating processes**  
-🌍 Working with **multinational teams** in **remote environments**  
+### 🧠 What I Do Best:
+- Build data pipelines from source to dashboard  
+- Model clean, reliable data for analysis  
+- Design hybrid solutions (engineering + insights)  
+- Communicate data clearly for real decision-making
 
 ---
 
-💬 **Let’s talk about data, projects, or any cool tech—I’m in!** 🚀✨  
+### 🌟 Currently Focused On:
+- End-to-end data projects like **Customer360**  
+- Advanced KPIs (churn, LTV, segmentation)  
+- Orchestration, data modeling, and dashboard storytelling
 
-
+---
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
