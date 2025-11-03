@@ -1,53 +1,60 @@
+
+
 # 👋 Hi, I’m Viviana!
 
-🚀 Data Engineer & Analytics Specialist | End-to-End Data Solutions
+🚀 **Data Engineer | Building scalable pipelines & APIs | GCP · Airflow · Django**
 
-I help companies build **scalable pipelines** and turn raw data into **insights that drive strategy and growth**.  
-With a background in project management and data analytics, I bridge business needs and technical solutions.
+I build **scalable data architectures** and **automated APIs** that connect systems, pipelines, and dashboards with performance and governance in mind.
+As a **hands-on data engineer**, I turn raw data into reliable, actionable insights — bridging business strategy and technical execution.
 
 ---
 
 ### 🔧 Tech Stack:
-- **Engineering**: Python (PySpark, Pandas), SQL, Airflow, APIs, ETL automation  
-- **Modeling & Storage**: Star Schema, Parquet, PostgreSQL, Redshift, MongoDB  
-- **Analytics & Visualization**: Power BI, Streamlit, Tableau, EDA, KPIs  
-- **Agile & Delivery**: PMP, SCRUM, remote teams, stakeholder communication
+
+* **Data Engineering**: Python (Airflow, Pandas, PySpark), ETL automation, APIs, Docker, CI/CD
+* **Cloud & Storage**: Google Cloud (BigQuery, Composer, Storage, Pub/Sub, Secret Manager), PostgreSQL, MongoDB
+* **Modeling & Governance**: Star Schema, Data Catalog, IAM policies, data quality & lineage
+* **Visualization & Insights**: Power BI, Looker Studio, Streamlit, dashboard storytelling
+* **Frameworks**: Django (modular apps, REST APIs), orchestration with TaskFlow + GCP integration
 
 ---
 
 ### 🧠 What I Do Best:
-- Build data pipelines from source to dashboard  
-- Model clean, reliable data for analysis  
-- Design hybrid solutions (engineering + insights)  
-- Communicate data clearly for real decision-making
+
+* Build **automated, parameterized pipelines** from ingestion to insight
+* Develop **secure and scalable APIs** for data and analytics services
+* Model **clean, auditable data layers** that scale across clients
+* Integrate **engineering, analytics, and automation** to deliver measurable value
 
 ---
 
 ### 🌟 Currently Focused On:
-- End-to-end data projects like **Customer360**  
-- Advanced KPIs (churn, LTV, segmentation)  
-- Orchestration, data modeling, and dashboard storytelling
+
+* End-to-end **data engineering on GCP** (Airflow, BigQuery, Composer)
+* **API development and orchestration** with Django REST Framework
 
 ---
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Airflow" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg">
   <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-  <img align="center" alt="Pandas" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
-  <img align="center" alt="Plotly" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg">
-  <img align="center" alt="Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
-  <img align="center" alt="Power BI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="GCP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
+  <img align="center" alt="BigQuery" height="30" width="40" src="https://cdn.simpleicons.org/googlebigquery">
+  <img align="center" alt="Power BI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="AWS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
-
-
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
 
-  
-  ##
- 
+---
+
 <div> 
-  <a href="https://www.linkedin.com/in/viviana-oliveira-pmp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/viviana-oliveira-pmp/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
 </div>
+
+---
+
