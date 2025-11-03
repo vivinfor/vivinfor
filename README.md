@@ -14,7 +14,7 @@ As a **hands-on data engineer**, I turn raw data into reliable, actionable insig
 * **Data Engineering**: Python (Airflow, Pandas, PySpark), ETL automation, APIs, Docker, CI/CD
 * **Cloud & Storage**: Google Cloud (BigQuery, Composer, Storage, Pub/Sub, Secret Manager), PostgreSQL, MongoDB
 * **Modeling & Governance**: Star Schema, Data Catalog, IAM policies, data quality & lineage
-* **Visualization & Insights**: Power BI, Looker Studio, Streamlit, dashboard storytelling
+* **Visualization & Insights**: Power BI & Looker Studio
 * **Frameworks**: Django (modular apps, REST APIs), orchestration with TaskFlow + GCP integration
 
 ---
