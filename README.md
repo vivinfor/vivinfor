@@ -1,14 +1,3 @@
----
-
-# 👋 Oi, eu sou a Viviana!
-
-**Engenheira de Dados | GCP | BigQuery | Airflow | Governança | Pipelines escaláveis | PMP**
-
-Atuo com **engenharia de dados na prática**, construindo e sustentando **pipelines de dados** e **camadas analíticas** com foco em **confiabilidade, rastreabilidade, automação e governança**.
-
-Meu objetivo é transformar dados operacionais em informação pronta para decisão, com **padrões reutilizáveis**, observabilidade e um fluxo de entrega que funcione no dia a dia.
-
----
 
 ## 🔧 Stack e ferramentas
 
