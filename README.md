@@ -1,37 +1,40 @@
+---
 
+# 👋 Oi, eu sou a Viviana!
 
-# 👋 Hi, I’m Viviana!
+**Engenheira de Dados | GCP | BigQuery | Airflow | Governança | Pipelines escaláveis | PMP**
 
-🚀 **Data Engineer | Building scalable pipelines & APIs | GCP · Airflow · Django**
+Atuo com **engenharia de dados na prática**, construindo e sustentando **pipelines de dados** e **camadas analíticas** com foco em **confiabilidade, rastreabilidade, automação e governança**.
 
-I build **scalable data architectures** and **automated APIs** that connect systems, pipelines, and dashboards with performance and governance in mind.
-As a **hands-on data engineer**, I turn raw data into reliable, actionable insights — bridging business strategy and technical execution.
+Meu objetivo é transformar dados operacionais em informação pronta para decisão, com **padrões reutilizáveis**, observabilidade e um fluxo de entrega que funcione no dia a dia.
 
 ---
 
-### 🔧 Tech Stack:
+## 🔧 Stack e ferramentas
 
-* **Data Engineering**: Python (Airflow, Pandas, PySpark), ETL automation, APIs, Docker, CI/CD
-* **Cloud & Storage**: Google Cloud (BigQuery, Composer, Storage, Pub/Sub, Secret Manager), PostgreSQL, MongoDB
-* **Modeling & Governance**: Star Schema, Data Catalog, IAM policies, data quality & lineage
-* **Visualization & Insights**: Power BI & Looker Studio
-* **Frameworks**: Django (modular apps, REST APIs), orchestration with TaskFlow + GCP integration
-
----
-
-### 🧠 What I Do Best:
-
-* Build **automated, parameterized pipelines** from ingestion to insight
-* Develop **secure and scalable APIs** for data and analytics services
-* Model **clean, auditable data layers** that scale across clients
-* Integrate **engineering, analytics, and automation** to deliver measurable value
+- **Engenharia de dados**: Python, SQL, Pandas, automações e rotinas de ETL/ELT  
+- **Orquestração**: Airflow (Composer, quando aplicável)  
+- **GCP**: BigQuery, Cloud Storage, Pub/Sub, Cloud Run (Jobs/Services), IAM, Secret Manager  
+- **Modelagem e governança**: modelagem analítica, camadas de consumo, qualidade de dados, rastreabilidade e reprocessamento  
+- **Visualização**: Power BI, Looker Studio (consumindo datasets pré-modelados)
 
 ---
 
-### 🌟 Currently Focused On:
+## 🧠 O que eu faço no dia a dia
 
-* End-to-end **data engineering on GCP** (Airflow, BigQuery, Composer)
-* **API development and orchestration** with Django REST Framework
+- Construção e manutenção de **pipelines escaláveis** (ingestão, transformação e publicação)  
+- Estruturação de **camadas analíticas no BigQuery** com métricas consistentes e consumo confiável  
+- Implementação de **padrões operacionais** (logs, monitoramento, reprocessamento, parametrização)  
+- Integrações orientadas a evento e automações com **Pub/Sub + Cloud Run**  
+- Colaboração com stakeholders para alinhar **definições de métricas** e requisitos de dados
+
+---
+
+## 🎯 Foco atual
+
+- Plataformas de dados em **GCP** com governança e observabilidade desde o início  
+- Pipelines com **Airflow + BigQuery** e automação com **Cloud Run**  
+- Dados prontos para consumo por BI/analytics, sem lógica na camada de visualização
 
 ---
 
