@@ -11,11 +11,10 @@ Meu objetivo é transformar dados operacionais em informação pronta para decis
 
 ## 🔧 Stack e ferramentas
 
-- **Engenharia de dados**: Python, SQL, Pandas, automações e rotinas de ETL/ELT  
-- **Orquestração**: Airflow (Composer, quando aplicável)  
-- **GCP**: BigQuery, Cloud Storage, Pub/Sub, Cloud Run (Jobs/Services), IAM, Secret Manager  
-- **Modelagem e governança**: modelagem analítica, camadas de consumo, qualidade de dados, rastreabilidade e reprocessamento  
-- **Visualização**: Power BI, Looker Studio (consumindo datasets pré-modelados)
+- **Engenharia de dados**: Arquitetura config-driven para pipelines multi-cliente, Python, SQL, ETL/ELT com componentes desacoplados (ingestão, normalização, carga)
+- **API**: FastAPI, Django
+- **Cloud e Infra**: GCP (Cloud Run, Workflows, BigQuery, GCS, Secret Manager), Docker, CI/CD com GitHub Actions  
+- **Visualização**: Power BI, Looker Studio e Apache Superset
 
 ---
 
